@@ -19,9 +19,9 @@ minimal_mistakes_skin    : "air" # "aqua", "contrast", "dark", "dirt", "neon", "
 # Site Settings
 locale                   : "en-US"
 layout                   : splash
-title                    : "" #"Planet Sensor LLC"
+title                    : Planet Sensor LLC
 title_separator          : "-"
-subtitle                 : Visualize with Sensors and Data # site tagline that appears below site title in masthead
+subtitle                 : Visualize with Sensor and Data # site tagline that appears below site title in masthead
 name                     : #"Your Name"
 description              : "Platform to increase visibility of your industrial IoT devices"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
