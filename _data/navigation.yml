@@ -5,7 +5,7 @@ main:
     url: index.html
   - title: "Products"
     #url: https://mmistakes.github.io/minimal-mistakes/about/
-    url: index.html
+    url: /docs/authors/
   #- title: "Support"
   #  url: /year-archive/
   - title: "Login"
