@@ -5,9 +5,9 @@ main:
     url: index.html
   - title: "Products"
     #url: https://mmistakes.github.io/minimal-mistakes/about/
-    url: products.html
+    # url: products.html
   #- title: "Support"
-  #  url: /year-archive/
+   url: /year-archive/
   - title: "Login"
     url: /collection-archive/
   - title: "Contact Us"
